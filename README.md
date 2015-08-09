@@ -8,7 +8,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-Being a web developer can be harder on the body than given credit and thus we must fight back.  This project was created to be a personal workout log to help me keep track of my daily exercise along with adding features to track my long term exercise goals.
+I want to use this project as an opportunity to write an application in HAML and to experiment with the simple_form gem to help me build cleaner looking forms.  I also felt that being a web developer is hard on the body thus I must fight back.  This project is to be a personal workout log to help me keep track of my daily exercise along with adding features to track my long term exercise goals.
 
 ## Installation
 
@@ -33,7 +33,7 @@ bundle install
 # Ways to Contribute
 - Creating test
 - Improving README
-- Cleaning up code. Anything as simple as white space and indentation helps.
+- Cleaning up code. Anything as simple as typos, white space, and indentation all helps.
 - Suggesting features
 
 ## Under MIT License
