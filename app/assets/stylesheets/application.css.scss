@@ -21,6 +21,8 @@ html {
   height: 100%;
 }
 
+.center { text-align: center }
+
 body {
 
   background: -webkit-linear-gradient(90deg, #50C9C3 10%, #96DEDA 90%); /* Chrome 10+, Saf5.1+ */
@@ -35,4 +37,11 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
   border: none;
   border-radius: 0;
+}
+
+form {
+  .form-group {
+    margin-left: 25%;
+    max-width: 350px;
+  }
 }
