@@ -32,6 +32,12 @@ body {
   background:         linear-gradient(90deg, #50C9C3 10%, #96DEDA 90%); /* W3C */
 }
 
+#workout {
+  p {
+    margin-right: 10px;
+  }
+}
+
 .navbar-default {
   -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
   box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
@@ -45,3 +51,5 @@ form {
     max-width: 350px;
   }
 }
+
+
