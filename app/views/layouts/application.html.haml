@@ -14,5 +14,9 @@
       .nav.navbar-nav.navbar-right
         = link_to 'New Workout', new_workout_path, class:"navbar"
   .container
-    =yield
+    .row
+      .col-sm-3
+      .col-sm-6
+        =yield
+      .col-sm-3
 
